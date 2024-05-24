@@ -31,6 +31,20 @@ export default function Header() {
                     </span>
                 </button>
             </h1>
+
+            <section className=" flex items-center mt-6 justify-between">
+                <div className="  ml-5">
+                    <h3 className="text-black font-labil-grotesk text-[29px] font-semibold leading-[1.3] tracking-[-0.01em] text-left"
+                    > Let ' s Talk</h3>
+                    <p className="text-black font-labil-grotesk text-2xl font-medium leading-[1.4] tracking-[-0.01em] text-left"
+                    >sabbirahamedsiam101@gmail.com</p>
+                </div>
+                <div className=" max-w-[450px] mt-6 p-5 border-2 border-black">
+                    <h1 className="text-black font-labil-grotesk text-xl font-medium leading-[1.4] tracking-wide text-left"
+                    >Hello, I'm Joey, an online product designer focusing on brand identity, advertising, and no-code instruments.</h1>
+                </div>
+            </section>
+
         </div>
     )
 }
