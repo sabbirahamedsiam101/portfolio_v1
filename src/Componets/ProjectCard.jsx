@@ -16,7 +16,7 @@ export default function ProjectCard() {
                     <img src={project1} alt=""  />
                 </div>
                 <div>
-                    <h2 className=' text-[1.6vw] font-semibold'>Car wasg</h2>
+                    <h2 className=' xl:text-[1.6vw] lg:text-[2vw] py-2 md:text-[3vw] sm:text-[4vw] text-[26px] font-semibold'>Car wasg</h2>
                     <div className=' flex items-center justify-between gap-7'>
                         <p>This is a sample container styled with the provided CSS.</p>
                         <div className=' text-xl text-white group-hover:text-black duration-300'>

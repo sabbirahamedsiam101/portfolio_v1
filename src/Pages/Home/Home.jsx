@@ -7,7 +7,7 @@ import Expertise from './Expertise'
 export default function Home() {
   return (
     <div className='relative'>
-      <Nav />
+
       <Header />
       <Projects />
       <Expertise />
