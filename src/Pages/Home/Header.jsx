@@ -20,7 +20,7 @@ export default function Header() {
     }
   `;
     return (
-        <div className=" mx-[7%]">
+        <div className=" mx-[7%] relative">
             <h1 className="text-black font-labil-grotesk text-[13vw] mt-[5vw] font-semibold leading-[0.9] tracking-[-0.02em] text-left"
             > Websites & Branding
                 <button className="text-black  bg-[#F9F9F9] relative  py-6 px-10 rounded-full  text-[20px] font-semibold leading-[1.4] ml-7 tracking-[-0.01em] text-left"
