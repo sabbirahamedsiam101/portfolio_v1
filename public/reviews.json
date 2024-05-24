@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Daniella Doe",
+        "role": "Mobile dev",
+        "imgSrc": "https://randomuser.me/api/portraits/women/12.jpg",
+        "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum aliquid quo eum quae quos illo earum ipsa doloribus nostrum minus libero aspernatur laborum cum, a suscipit, ratione ea totam ullam! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto laboriosam deleniti aperiam ab veniam sint non cumque quis tempore cupiditate. Sint libero voluptas veniam at reprehenderit, veritatis harum et rerum."
+    },
+    {
+        "id": 2,
+        "name": "Jane Doe",
+        "role": "Marketing",
+        "imgSrc": "https://randomuser.me/api/portraits/women/14.jpg",
+        "review": "Lorem ipsum dolor laboriosam deleniti aperiam ab veniam sint non cumque quis tempore cupiditate. Sint libero voluptas veniam at reprehenderit, veritatis harum et rerum."
+    },
+    {
+        "id": 3,
+        "name": "Yanick Doe",
+        "role": "Developer",
+        "imgSrc": "https://randomuser.me/api/portraits/women/18.jpg",
+        "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto laboriosam deleniti aperiam ab veniam sint non cumque quis tempore cupiditate. Sint libero voluptas veniam at reprehenderit, veritatis harum et rerum."
+    },
+    {
+        "id": 4,
+        "name": "Jane Doe",
+        "role": "Mobile dev",
+        "imgSrc": "https://randomuser.me/api/portraits/women/2.jpg",
+        "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto laboriosam deleniti aperiam ab veniam sint non cumque quis tempore cupiditate. Sint libero voluptas veniam at reprehenderit, veritatis harum et rerum."
+    },
+    {
+        "id": 5,
+        "name": "Andy Doe",
+        "role": "Manager",
+        "imgSrc": "https://randomuser.me/api/portraits/women/62.jpg",
+        "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto laboriosam deleniti aperiam ab veniam sint non cumque quis tempore cupiditate. Sint libero voluptas veniam at reprehenderit, veritatis harum et rerum."
+    },
+    {
+        "id": 6,
+        "name": "Yanndy Doe",
+        "role": "Mobile dev",
+        "imgSrc": "https://randomuser.me/api/portraits/women/19.jpg",
+        "review": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto laboriosam deleniti aperiam ab veniam sint non cumque quis tempore cupiditate. Sint libero voluptas veniam at reprehenderit, veritatis harum et rerum."
+    },
+    {
+        "id": 7,
+        "name": "Alice Doe",
+        "role": "Designer",
+        "imgSrc": "https://randomuser.me/api/portraits/women/22.jpg",
+        "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi culpa expedita voluptatem aut nobis. Nihil autem, molestias omnis incidunt inventore rerum expedita sed quas est, facilis, voluptas odio iure sit! Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit eaque, voluptatum quis tempora ut commodi quae accusamus! Tempore sequi ea non minima. Fugit, nesciunt natus. Amet quae quisquam quod illo!"
+    },
+    {
+        "id": 8,
+        "name": "John Doe",
+        "role": "Product Manager",
+        "imgSrc": "https://randomuser.me/api/portraits/men/32.jpg",
+        "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia doloremque repellat saepe architecto rem itaque unde modi ducimus quos cumque velit ratione vero non aliquid numquam, sequi odio, quia quis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, doloremque officia rem ipsam quam tempore alias quo quas repudiandae vel obcaecati. Officia, illo. Iusto aspernatur adipisci temporibus accusantium rem velit!"
+    },
+    {
+        "id": 9,
+        "name": "Emily Smith",
+        "role": "Frontend Developer",
+        "imgSrc": "https://randomuser.me/api/portraits/women/25.jpg",
+        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus lorem id lorem aliquet, sit amet maximus erat hendrerit. In lacinia nisl sit amet nulla volutpat, ut malesuada tortor dapibus. Nulla a urna venenatis, rutrum nulla vel, lacinia magna. Vestibulum at erat risus. Aliquam vitae tellus quis libero vestibulum vestibulum. Nullam volutpat, velit sit amet vehicula consequat, elit nulla placerat quam, nec posuere elit nunc sit amet ex. Morbi bibendum semper nisl, eget suscipit metus ullamcorper vel."
+    },
+    {
+        "id": 10,
+        "name": "Michael Brown",
+        "role": "Backend Developer",
+        "imgSrc": "https://randomuser.me/api/portraits/men/28.jpg",
+        "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et turpis vel erat bibendum lacinia. Curabitur bibendum sit amet eros vel tincidunt. Donec a vehicula odio. Proin vel ipsum leo. Proin vel est eu ipsum pretium posuere. Integer non efficitur sapien, sit amet maximus erat. Ut varius nibh ut ante congue, ut efficitur odio lobortis. Duis congue est sit amet erat malesuada varius."
+    }
+]

@@ -3,6 +3,8 @@ import Nav from '../../Componets/Nav'
 import Header from './Header'
 import Projects from './Projects'
 import Expertise from './Expertise'
+import MarqueeText from './MarqueeText'
+import Testimonials from './Testimonials'
 
 export default function Home() {
   return (
@@ -11,6 +13,8 @@ export default function Home() {
       <Header />
       <Projects />
       <Expertise />
+      <MarqueeText />
+      <Testimonials />
     </div>
   )
 }
