@@ -23,13 +23,15 @@ export default function Header() {
         <div className=" 2xl:mx-[7%] mx-[5%] relative">
             <h1 className="text-black font-labil-grotesk text-[13vw] mt-[5vw] font-semibold leading-[1.3]   lg:tracking-[-0.02em] tracking-[4px] text-left"
             > Websites & Branding
-                <button className="text-black  bg-[#F9F9F9] relative py-[1.5vw] px-[3vw] rounded-full  text-[2vw] font-semibold leading-[1.4] lg:ml-7 ml-3 tracking-[-0.01em] text-left"
-                >
-                    <span>
-                        <style>{keyframes}</style>
-                        SCROLL DOWN <FaArrowDown className="float-end  " style={arrowStyle} />
-                    </span>
-                </button>
+                <a href="#about" className="duration-300">
+                    <button className="text-black  bg-[#F9F9F9] relative py-[1.5vw] px-[3vw] rounded-full  text-[2vw] font-semibold leading-[1.4] lg:ml-7 ml-3 tracking-[-0.01em] text-left"
+                    >
+                        <span>
+                            <style>{keyframes}</style>
+                            SCROLL DOWN <FaArrowDown className="float-end  " style={arrowStyle} />
+                        </span>
+                    </button>
+                </a>
             </h1>
 
             <section className=" flex lg:flex-row flex-col lg:items-center items-start mt-6 lg:justify-between ">

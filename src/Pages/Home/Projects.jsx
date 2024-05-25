@@ -3,7 +3,7 @@ import project1 from '../../assets/project1.png'
 import ProjectCard from '../../Componets/ProjectCard'
 export default function Projects() {
     return (
-        <section className='lg:my-[5vw] md:my-[7vw] my-[60px] lg:mx-[7%] mx-[5%] '>
+        <section id='projects' className='lg:my-[5vw] md:my-[7vw] my-[60px] lg:mx-[7%] mx-[5%] '>
             <div className='ml-5 max-w-[450px]'>
                 <h1 className="text-black font-labil-grotesk 2xl:text-[3vw] lg:text-[4vw] md:text-[4.5vw] sm:text-[6vw] text-[40px] font-semibold leading-[1.2] tracking-wide text-left"
                 > Projects</h1>
